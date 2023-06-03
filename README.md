@@ -43,7 +43,7 @@ python manage.py runserver
 localhost:8000/app/
 ```
 
-### JSON formmat to POST route (all items in the body are mandatories)
+### JSON format to POST route (all items in the body are mandatories)
 
 ```Json
 {
@@ -55,11 +55,14 @@ localhost:8000/app/
 }
 ```
 
+### Access the GET (by ID), PUT and DELETE routes
+
 ```Bash
-#GET(by ID), put PUT and DELETE route access
 #ID is an integer number
 localhost:8000/app/ID
 ```
+
+### JSON format to PUT route (the items in the body are optionals)
 
 ```Json
 {
