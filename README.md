@@ -59,7 +59,7 @@ localhost:8000/app/
 
 ```Bash
 #ID is an integer number
-localhost:8000/app/ID
+localhost:8000/app/ID/
 ```
 
 ### JSON format to PUT route (the items in the body are optionals)
