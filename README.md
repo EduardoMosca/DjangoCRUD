@@ -2,13 +2,6 @@
 
 This is a small project with a todolist written in DJango.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install CRUD.
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -16,6 +9,14 @@ pip install -r requirements.txt
 
 ```bash
 python -m venv .env
+```
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install CRUD.
+
+```bash
+pip install -r requirements.txt
 ```
 
 ### Active the environment
